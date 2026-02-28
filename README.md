@@ -84,3 +84,13 @@ Unlike global planners that require heavy re-computation, this system uses a Loc
 ### AI Tools Used
 
 **Antigravity AI (Ralph):** Utilized for architectural optimization of the C++ state machine and refining the B-Spline's local control parameters.
+
+## 5. Demonstration Videos
+
+You can view the system in action through the following demonstration videos included in this repository:
+
+*   **[Trajectory Following Demonstration](videos/video_1.mp4)**
+*   **[Dynamic Obstacle Avoidance](videos/video_obstacle.webm)**
+*   **[Alternative Scenario Test](videos/video_2.webm)**
+
+*(Note: Videos are stored in the `/videos` directory and can be viewed directly on GitHub or downloaded locally).*
