@@ -81,16 +81,20 @@ Unlike global planners that require heavy re-computation, this system uses a Loc
 
 ---
 
+---
+
 ### AI Tools Used
 
 **Antigravity AI (Ralph):** Utilized for architectural optimization of the C++ state machine and refining the B-Spline's local control parameters.
 
-## 5. Demonstration Videos
+## 7. System Demonstration
 
-You can view the system in action through the following demonstration videos included in this repository:
+This video demonstrates the B-Spline smoothing algorithm handling an irregular zigzag path and local obstacle avoidance.
 
-*   **[Trajectory Following Demonstration](videos/video_1.mp4)**
-*   **[Dynamic Obstacle Avoidance](videos/video_obstacle.webm)**
-*   **[Alternative Scenario Test](videos/video_2.webm)**
+<video src="https://github.com/user-attachments/assets/videos/video_1.mp4" width="800" controls></video>
+
+<video src="https://github.com/user-attachments/assets/videos/video_obstacle.webm" width="800" controls></video>
+
+<video src="https://github.com/user-attachments/assets/videos/video_2.webm" width="800" controls></video>
 
 *(Note: Videos are stored in the `/videos` directory and can be viewed directly on GitHub or downloaded locally).*
