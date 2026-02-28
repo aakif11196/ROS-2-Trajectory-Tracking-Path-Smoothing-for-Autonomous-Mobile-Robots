@@ -71,7 +71,7 @@ The system is designed with a modular approach, separating concerns into distinc
 *   **Automatic Clamping:** The node internally duplicates the start and end waypoints (multiplicity of 4) to ensure the curve is clamped exactly to the user's defined coordinates.
 *   **Sharp 90° Turns:** Implemented a refined weighting logic to allow the robot to maintain path adherence even during extreme directional changes.
 
-## 4. Extra Credit: Obstacle Avoidance (Local Control)
+## 4.Obstacle Avoidance (Local Control)
 
 Unlike global planners that require heavy re-computation, this system uses a Local State-Managed Avoidance Logic:
 
