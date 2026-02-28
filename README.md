@@ -85,7 +85,7 @@ Unlike global planners that require heavy re-computation, this system uses a Loc
 
 ### AI Tools Used
 
-**Antigravity AI (Ralph):** Utilized for architectural optimization of the C++ state machine and refining the B-Spline's local control parameters.
+**Antigravity AI :** Utilized for architectural optimization of the C++ state machine and refining the B-Spline's local control parameters.
 
 ## 7. System Demonstration
 
