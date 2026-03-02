@@ -62,7 +62,7 @@ I selected B-Splines for this implementation due to two critical technical advan
 
 The system is designed with a modular approach, separating concerns into distinct logical blocks:
 
-*   **Path Generator:** Handles YAML-based waypoint ingestion and B-Spline interpolation.
+*   **Path Generator:** Handles Hardcoded waypoint ingestion and B-Spline interpolation.
 *   **Controller:** A Pure Pursuit implementation for precise trajectory following.
 *   **Safety Monitor:** A LiDAR-based state machine for dynamic obstacle detection.
 
@@ -83,9 +83,6 @@ Unlike global planners that require heavy re-computation, this system uses a Loc
 
 ---
 
-### AI Tools Used
-
-**Antigravity AI :** Utilized for architectural optimization of the C++ state machine and refining the B-Spline's local control parameters.
 
 ## 7. System Demonstration
 
